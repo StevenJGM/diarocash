@@ -18,7 +18,7 @@
 *(Aquí puedes subir una foto de tu móvil corriendo la app luego)*
 
 ## 🚀 Instalación
-1. Clona el repositorio: `git clone https://github.com/StevenJGM/diarocash.git <img width="900" height="2050" alt="aa" src="https://github.com/user-attachments/assets/edbda1a5-d333-4d6e-aa7b-519907cb406e" />
+1. Clona el repositorio: `git clone https://github.com/StevenJGM/diarocash.git 
 
 `
 2. Instala las dependencias: `flutter pub get`
