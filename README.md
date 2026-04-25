@@ -1,8 +1,11 @@
-# diariocash
+📦 DiarioCash
+Aplicación móvil creada con Flutter para ayudar a repartidores a gestionar sus ingresos y gastos diarios.
 
-A new Flutter project.
+📅 Agrupación de gastos por fecha.
 
-## Getting Started
+📊 Resumen de saldos.
+
+🎨 Personalización completa con logo propio.
 
 This project is a starting point for a Flutter application.
 
