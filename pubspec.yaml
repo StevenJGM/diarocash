@@ -1,0 +1,36 @@
+name: diariocash
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  # --- SECCIÓN AÑADIDA PARA EL LOGO ---
+  flutter_launcher_icons: "^0.13.1"
+
+# --- CONFIGURACIÓN DEL ICONO ---
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+  adaptive_icon_background: "#121212"
+  adaptive_icon_foreground: "assets/logo.png"
+
+flutter:
+  uses-material-design: true
+
+  # --- SECCIÓN DE ASSETS HABILITADA ---
+  assets:
+    - assets/logo.png
